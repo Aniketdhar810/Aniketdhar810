@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aniketdhar810&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="https://animan-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
